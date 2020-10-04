@@ -1,0 +1,14 @@
+1.khoi tao:  git init
+2.Ket noi reposity:  to your VS -- git remote add origin httl://
+3.Kiem tra trang thai cua source: git status
+    file mau do : file da thay doi nhuwng chua luu
+    file mau xanh : file da thay doi va duoc luu
+
+4. Save nhung file lai : git add. : save all changed file
+                    git add .index.js : save only file you choose.
+5. chuyen sang state commiting:
+    git commit -m "nameCommit"
+    if it's the time you install git : add git name && git email
+6. day code len server(gitHub)
+    git push -u origin master : first time push your code
+    git push : next time.
